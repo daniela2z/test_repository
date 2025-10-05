@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="טליה סבון טבעי - סדנה משפחתית לסבונים טבעיים בעבודת יד, עם חוויית טיפוח אישית וניחוחות מרעננים.">
-    <title>טליה סבון טבעי | סבונים בעבודת יד</title>
+    <meta name="description" content="שלום צפון - סבונים טבעיים בעבודת יד עם חוויית טיפוח אישית וניחוחות מרעננים.">
+    <title>שלום צפון | סבונים בעבודת יד</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -15,8 +15,8 @@
     <header class="hero">
         <div class="hero__content">
             <p class="hero__eyebrow">סבונים טבעיים בעבודת יד</p>
-            <h1 class="hero__title">טליה סבון טבעי</h1>
-            <p class="hero__subtitle">אוסף סבונים רעננים, המיוצרים בקפידה מסממנים מקומיים ושמנים אתריים טהורים שמעניקים לעור שלך איזון, רוגע ותחושת בית.</p>
+            <h1 class="hero__title">שלום צפון</h1>
+            <p class="hero__subtitle">אוסף סבונים רעננים מבית שלום צפון, המיוצרים בקפידה מסממנים מקומיים ושמנים אתריים טהורים שמעניקים לעור שלך איזון, רוגע ותחושת בית.</p>
             <div class="hero__actions">
                 <a class="btn btn--primary" href="#contact">לתיאום שיחה</a>
                 <a class="btn btn--ghost" href="#collection">למוצרים מובילים</a>
@@ -33,7 +33,7 @@
             <div class="about__grid">
                 <article class="card about__story">
                     <h3>סיפור של טבע ואנשים</h3>
-                    <p>טליה סבון טבעי התחיל כתחביב משפחתי והפך למותג שמביא את הטבע אל המדף הביתי. אנו מעבדים שמנים צמחיים בכבישה קרה ושוזרים בהם תמציות מרפא טריות כדי ליצור מרקמים מפנקים וריחות עדינים.</p>
+                    <p>שלום צפון התחיל כתחביב משפחתי והפך למותג שמביא את הטבע אל המדף הביתי. אנו מעבדים שמנים צמחיים בכבישה קרה ושוזרים בהם תמציות מרפא טריות כדי ליצור מרקמים מפנקים וריחות עדינים.</p>
                     <p>כל סדרה מיוצרת בכמויות קטנות, עם הקפדה על שקיפות מלאה ושרשרת אספקה מקומית שתומכת בקהילה.</p>
                 </article>
                 <aside class="card about__highlights">
@@ -118,7 +118,7 @@
             </div>
             <div class="card-grid testimonials__grid">
                 <figure class="card quote">
-                    <blockquote>“מאז שעברתי לסבונים של טליה העור שלי רגוע ובריא יותר. הריחות מחבקים את הבית כל בוקר.”</blockquote>
+                    <blockquote>“מאז שעברתי לסבונים של שלום צפון העור שלי רגוע ובריא יותר. הריחות מחבקים את הבית כל בוקר.”</blockquote>
                     <figcaption>נועה, תל אביב</figcaption>
                 </figure>
                 <figure class="card quote">
@@ -150,7 +150,7 @@
     </main>
 
     <footer class="footer">
-        <p>© 2024 טליה סבון טבעי. כל הזכויות שמורות.</p>
+        <p>© 2024 שלום צפון. כל הזכויות שמורות.</p>
     </footer>
 </body>
 </html>
